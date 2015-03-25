@@ -8,8 +8,8 @@
 
 ### Education
 
-**PhD Bioinformatics** (2012-15) *University of Edinburgh*
-  During my PhD I analysed a diverse array of publicly-available biological datasets to uncover new insights into the epigenetics underlying higher-order chromatin stucture. I integrated Hi-C and other chromosome conformation capture experimental results with... My PhD was supervised by Colin A. Semple and Stuart Aitken in the MRC Human Genetics Unit, IGMM.
+**PhD Bioinformatics** (2012-15) *University of Edinburgh*, Supervised by Colin Semple and Stuart Aitken
+  During my PhD I analysed a diverse array of publicly-available biological datasets to uncover new insights into the epigenomic phenomena underlying higher-order chromatin structure. I integrated Hi-C and other chromosome conformation capture experimental results with... 
 **MSc Bioinformatics and theoretical systems biology** (2011-12) *Imperial College London*, Distinction
   My MSc included both taught (statistics, programming and biology) components, as well as three research projects. These included a software engineering project where I helped develop a stochastic Petri net library in Python with Prof. Michael Stumpf ([Sputnik](https://github.com/sputnikpetrinets)), and another project (since [published](https://dx.doi.org/10.1002/jcc.23330)) in which I applied Guassian mixture modelling to a long-standing problem in structural bioinformatics.
 **BSc Biology** (2008-11) *University of York*, First class honours
