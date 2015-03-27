@@ -190,10 +190,11 @@ strong {
 	visibility: hidden;
 }
 
+/*
 #projects {
-	/* content: ""; */
 	page-break-before: always;
 }
+*/
 
 .footer {
     -webkit-column-count: 3; /* Chrome, Safari, Opera */
