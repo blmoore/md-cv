@@ -41,13 +41,14 @@ WikiProject Computational Biology half-day tutorial (_ISMB_, Boston, USA)
 `2015`
 EdinbR: The Edinburgh R usergroup (_various_)
 
+MRC IGMM research seminars and section meetings (_various_)
 
 `2014`
 Unravelling higher order chromatin structure (_4<sup>th</sup> Edinburgh Bioinformatics meeting_, Edinburgh, UK)
 
 blogR: pop data analysis and R for the web (_Psychology R-users_, Edinburgh, UK)
 
-Digital Economies 2014 conference (London, UK; declined invitation)
+Digital Economies 2014 conference (London, UK; declined)
 
 ### Posters
 
@@ -141,7 +142,7 @@ Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.or
 *  <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
 *  <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Ben Moore</a><br />
 *  <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">blmoore</a>
-* <i class="fa fa-google"></i> <a href="scholar.google.com/citations?user=YMxsGpsAAAAJ">scholar</a>
+* <i class="fa fa-google"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">scholar</a>
 
 ## References
 
