@@ -16,7 +16,7 @@ Bioinformatics PhD and data scientist
 
 ## Currently
 
-Final year PhD Bioinformatics student at the University of Edinburgh, due to finish around September 2015.
+I'm a final-year bioinformatics PhD student at the University of Edinburgh, due to finish around September 2015. During my PhD I've been working on integrating large volumes of publicly available genomics datasets with chromosome conformation data, exploring the relationships between higher order genome organisation and locus-level chromatin features using machine learning and statistical analysis.
 
 ## Education
 
