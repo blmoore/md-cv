@@ -110,14 +110,12 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-	/* color: #fd9544; */
+	color: #222;
 	text-align: left;
-	font-size: 3em;
+	font-size: 2.2em;
 	line-height: 1em;
 	position: relative;
 	left: 28%;
-/*	text-shadow: 1px 1px #fff,
-								1px 2px #ccc; */
 }
 
 h1+p {
@@ -125,7 +123,7 @@ h1+p {
 	font-style: italic;
 	font-size: 110%;
 	line-height: 2em;
-	margin-top: 0.5em;
+	margin-top: 0.1em;
 	margin-bottom: 0em !important;
 }
 
@@ -134,13 +132,13 @@ h2 {
 	color: #a00;
 	margin-top: 1em;
 	position: relative;
-	top: 2em;
+	top: 1.5em;
 	text-align: right;
 	width: 18%;
 }
 
 h2+p {
-	margin-top: 2.5em;
+	margin-top: 2.1em;
 }
 
 h3 {
@@ -190,11 +188,9 @@ strong {
 	visibility: hidden;
 }
 
-/*
-#projects {
+#technical-skills {
 	page-break-before: always;
 }
-*/
 
 .footer {
     -webkit-column-count: 3; /* Chrome, Safari, Opera */

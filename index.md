@@ -48,7 +48,7 @@ Unravelling higher order chromatin structure (_4<sup>th</sup> Edinburgh Bioinfor
 
 blogR: pop data analysis and R for the web (_Psychology R-users_, Edinburgh, UK)
 
-Digital Economies 2014 conference (London, UK; declined)
+<!-- Digital Economies 2014 conference (London, UK; declined) -->
 
 ### Posters
 
@@ -74,6 +74,8 @@ _EpiGeneSys_ (Cambridge, UK)
 
 `2015`
 __Moore BL__ _et al._ Integrative modelling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. (_In review_)
+
+Yua N, Nützmanna H-W, __Moore BL__ _et al._ Chromatin signatures of plant metabolic gene clusters. (_Submitted_)
 
 `2013`
 __Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha carbons using Gaussian mixture models. _Journal of computational chemisty_, 34(22):1881-9.
@@ -103,7 +105,7 @@ Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the
 
 ### blog
 
-I author a data science blog at [blm.io](http://blm.io) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received around 150,000 total views from 180 countries.
+I write a data science blog at [blm.io](http://blm.io) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received around 150,000 total views from 180 countries.
 
 ### EdinbR
 I co-founded a usergroup for the R programming language in Edinburgh called EdinbR. I help to organise our monthly meetings and built our website: [edinbr.org](http://edinbr.org). Our meetings attract 30-50 statisticians, data scientists and developers for talks and discussion about the R language and its applications. We're sponsored by Revolution Analytics and have an organisational github account at [github.com/EdinbR](https://github.com/EdinbR).
@@ -114,9 +116,9 @@ I entered Imperial College's [Summer Data Challenge](http://summerdatachallenge.
 
 ## Awards
 
-MRC Capacity building scholarship (fees + enhanced stipend) for my PhD
+MRC Capacity building scholarship (PhD fees + enhanced stipend)
 
-MRC Full postgraduate scholarship (fees + stipend) for MSc
+MRC Full postgraduate scholarship (MSc fees + stipend)
 
 ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
 
