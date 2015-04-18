@@ -1,5 +1,9 @@
 # md-cv
 
+My markdown CV, which currently looks something like [this](http://blm.io/cv/), see this [blog post](http://blm.io/blog/markdown-academic-cv/) for details.
+
+### How to run 
+
 A (jekyll-based) markdown CV tweaked slightly from the great design by [elipapa](https://github.com/elipapa/markdown-cv) (see their [blog post](http://www.eliseopapa.org/workflow/2012/09/20/why-i-switched-to-markdown-for-my-cv/)).
 
 To build, clone the repo and run jekyll:
