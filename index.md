@@ -73,7 +73,7 @@ _EpiGeneSys_ (Cambridge, UK)
 <!-- ### Journals -->
 
 `2015`
-__Moore BL__ _et al._ Integrative modelling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. (_In review_)
+__Moore BL__ _et al._ Integrative modelling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. (_Accepted_)
 
 Yua N, Nützmanna H-W, __Moore BL__ _et al._ Chromatin signatures of plant metabolic gene clusters. (_Submitted_)
 
