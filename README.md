@@ -36,7 +36,3 @@ Another problem with the PDF is pagebreaks, they're often not handled gracefully
 	page-break-before: always;
 }
 ```
-
-#### bugs
-
-Some of the links are borked in the PDF version (all except the mailtos, hmm). I don't know where to start fixing this, how are links even handled within PDFs? No idea.
