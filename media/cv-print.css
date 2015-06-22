@@ -188,7 +188,12 @@ strong {
 	visibility: hidden;
 }
 
-#technical-skills {
+
+#non-academic {
+	page-break-before: always;
+}
+
+#placements{
 	page-break-before: always;
 }
 
