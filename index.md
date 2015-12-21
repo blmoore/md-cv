@@ -1,33 +1,32 @@
 ---
 layout: cv
-title: Ben Moore's CV
+title: "Ben Moore's CV"
+published: true
 ---
-# Benjamin L. Moore
-Bioinformatics PhD and data scientist
+
+# Alex Pawlowski
+Energy Science and Engineering PhD Student, exploring additive manufactured metallic gradients for end-use transportation parts.
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<a href="mailto:apawlows@vols.utk.edu">apawlows@vols.utk.edu</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
+<i class="fa fa-github"></i> <a href="http://github.com/alexpawlowski">alexpawlowski</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
+<i class="fa fa-twitter"></i> <a href="http://twitter.com/alexpawlowski_">alexpawlowski_</a>
 </div>
 
 
 ## Currently
 
-I'm a final-year bioinformatics PhD student at the University of Edinburgh, due to finish around September 2015. During my PhD I've been working on integrating large volumes of publicly available genomics datasets with chromosome conformation data, exploring the relationships between higher order genome organisation and locus-level chromatin features using machine learning and statistical analysis.
+I'm a second-year energy science and energy PhD student at the University of Tennessee, in partnership with the Fuels, Engines, and Emissions Research Center at Oak Ridge National Lab. //During my PhD I've been working on integrating large volumes of publicly available genomics datasets with chromosome conformation data, exploring the relationships between higher order genome organisation and locus-level chromatin features using machine learning and statistical analysis.
 
 ## Education
 
-`2012-15`
-__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken)
+`2014-15`
+__University of Tennessee__ Energy Science and Engineering PhD (advisors: Derek Splitter and Robert Wagner)
 
 `2011-12`
-__Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
-
-`2008-11`
-__University of York__ BSc Biology (_First class honours_)
+__University of Virginia__ BSc Mechanical Engineering and Engineering Science - Material Science (_3.2 GPA_)
 
 ## Presentations
 
@@ -158,4 +157,4 @@ Available on request.
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: December 2015 -->
