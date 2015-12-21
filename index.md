@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: "Ben Moore's CV"
+title: "Alex Pawlowski's CV"
 published: true
 ---
 
@@ -144,12 +144,11 @@ Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.or
 
 ## Links
 
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-*  <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Ben Moore</a><br />
-*  <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">blmoore</a>
-* <i class="fa fa-google"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">scholar</a>
+* <i class="fa fa-envelope"></i> <a href="mailto:apawlows@vols.utk.edu">apawlows@vols.utk.edu</a><br />
+* <i class="fa fa-github"></i> <a href="http://github.com/alexpawlowski">alexpawlowski</a><br />
+*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/alexpawlowski_">alexpawlowski_</a><br />
+*  <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/5640617/alex-pawlowski">alexpawlowski</a>
+* <i class="fa fa-google"></i> <a href="https://scholar.google.com/citations?user=MLhGOi4AAAAJ">scholar</a>
 
 ## References
 
