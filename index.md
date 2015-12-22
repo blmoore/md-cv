@@ -4,6 +4,7 @@ title: "Alex Pawlowski's CV"
 published: true
 ---
 
+
 # Alex Pawlowski
 Energy Science and Engineering PhD Student, exploring additive manufactured metallic gradients for end-use transportation parts.
 
@@ -18,7 +19,7 @@ Energy Science and Engineering PhD Student, exploring additive manufactured meta
 
 ## Currently
 
-I'm a second-year energy science and energy PhD student at the University of Tennessee, in partnership with the Fuels, Engines, and Emissions Research Center at Oak Ridge National Lab. //During my PhD I've been working on integrating large volumes of publicly available genomics datasets with chromosome conformation data, exploring the relationships between higher order genome organisation and locus-level chromatin features using machine learning and statistical analysis.
+I'm a second-year energy science and energy PhD student at the University of Tennessee, in partnership with the Fuels, Engines, and Emissions Research Center (FEERC) at Oak Ridge National Lab. In this interdisplinary study, I have taken full advantage of developing a project that leverages strong core areas for ORNL to a new opportunity for the lab. My primary focus is to develop metallic gradients through additive manufacturing for end-use components to improve vehicle efficiency. Through successfully defending a lab SEED proposal and becoming the first of 2 projects sponsored by the Vehicle Technology Office in additive manufacturing, I have assembled a team in each core competency to tackle this issue: additive manufacturing, high temperature materials, and engines. To add depth to this area of concentration, I have found great interest in fuel economy analysis, helped in the design of 2 additively manufactured vehicles at the lab, and participate in dynamic neutron imaging of fuel injector sprays. I am actively building on programming skills with the R language to introduce statistical methods and web development to help find new ways to collaborate with open science.
 
 ## Education
 
@@ -30,6 +31,9 @@ __University of Virginia__ BSc Mechanical Engineering and Engineering Science - 
 
 ## Presentations
 
+`2015`
+Spark Ignited Engine Trends: A Historical Analysis with Future Projections (_SAE World Congress 2015_, Detroit, MI)
+<!--
 ### Tutorials
 
 `2014`
@@ -40,47 +44,20 @@ WikiProject Computational Biology half-day tutorial (_ISMB_, Boston, USA)
 `2015`
 EdinbR: The Edinburgh R usergroup (_various_)
 
-MRC IGMM research seminars and section meetings (_various_)
-
-`2014`
-Unravelling higher order chromatin structure (_4<sup>th</sup> Edinburgh Bioinformatics meeting_, Edinburgh, UK)
-
-blogR: pop data analysis and R for the web (_Psychology R-users_, Edinburgh, UK)
-
-<!-- Digital Economies 2014 conference (London, UK; declined) -->
-
 ### Posters
 
 `2015`
-_Keystone Epigenomics_ (Keystone CO, USA)
-
-`2014`
-_ISMB_ (Boston MA, USA)
-
-_Genome informatics_ (Cambridge, UK)
-
-_Chromatin: From nucleosomes to chromosomes_ (Cambridge, UK)
-
-`2013`
-_Genome informatics_ (CSHL NY, USA)
-
-_EpiGeneSys_ (Cambridge, UK)
-
+-->
 
 ## Publications
 
 <!-- ### Journals -->
 
 `2015`
-__Moore BL__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16: 110.
+Splitter D, __Pawlowski A__, and Wagner R (2015). A historical analysis of the co-evolution of gasoline octane number and spark-ignition engines. Front. Mech. Eng. 1:16. doi:10.3389/fmech.2015.00016
 
-Yua N, Nützmanna H-W, __Moore BL__ _et al._ Chromatin signatures of plant metabolic gene clusters. (_Submitted_)
+__Pawlowski A__, Splitter D (2015). SI Engine Trends: A Historical Analysis with Future Projections _SAE Technical Paper 2015-01-0972_, doi:10.4271/2015-01-0972.
 
-`2013`
-__Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha carbons using Gaussian mixture models. _Journal of computational chemisty_, 34(22):1881-9.
-
-`2011`
-Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the “decimal” release. _Nucleic acids research_, 39(S1):D141-5.
 
 ## Non-academic
 
@@ -90,19 +67,16 @@ Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the
 
 ## Technical skills
 
+* CAD
+	* Solidworks (CSWA Certified)
+    * Autodesk Fusion 360
+* CNC Milling
+* Milling
+* Lathing
 * R
-* Statistics
 * LaTeX
-* Git / Mercurial
-* UNIX
-* Python
-* Machine learning
-* Bash
-* Emacs
 * Inkscape
-* Data visualisation
-* Mediawiki
-* Cluster computing
+* Data visualization
 * HTML and CSS
 * Javascript
 
@@ -135,11 +109,14 @@ Training accreditation for Wikimedia UK, the national chapter of the Wikimedia F
 
 Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
 
-## Placements
+## Transportation Experience
 
-`2010-11`
-__Wellcome Trust Sanger Institute__ (_Cambridge, UK_)
-Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.org)) in the Bateman group
+`2013`
+__Toyota Motor North America__ (_Washington, DC_)
+Worked for one summer in fuel economy policy with TMNA's Energy and Environmental Research Group, designing a GUI in Microsoft Virtual Basic to interface with a planned vehicle decision model, a Chart Resize Tool in Virtual Basic, and developed several fuel economy policy related documents regarding energy saved by hybrids on the road and a comparision of the US and European fleet. 
+
+`2011-2013`
+__Virginia Department of Transportation__ (_Suffolk, VA_)
 
 
 ## Links
