@@ -23,7 +23,7 @@ I'm a second-year energy science and energy PhD student at the University of Ten
 
 ## Education
 
-`2014-15`
+`2014-18`
 __University of Tennessee__ Energy Science and Engineering PhD (advisors: Derek Splitter and Robert Wagner)
 
 `2011-12`
