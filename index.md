@@ -34,21 +34,14 @@ __University of Virginia__ BSc Mechanical Engineering and Engineering Science - 
 
 `2015`
 Spark Ignited Engine Trends: A Historical Analysis with Future Projections (_SAE World Congress 2015_, Detroit, MI)
-<!--
-### Tutorials
+<!-- ### Tutorials -->
+<!-- WikiProject Computational Biology half-day tutorial (_ISMB_, Boston, USA) -->
+<!-- ### Talks -->
 
-`2014`
-WikiProject Computational Biology half-day tutorial (_ISMB_, Boston, USA)
+<!-- `2015` -->
+<!-- EdinbR: The Edinburgh R usergroup (_various_) -->
 
-### Talks
-
-`2015`
-EdinbR: The Edinburgh R usergroup (_various_)
-
-### Posters
-
-`2015`
--->
+<!-- ### Posters -->
 
 ## Publications
 
