@@ -5,6 +5,7 @@ published: true
 ---
 
 
+
 # Alex Pawlowski
 Energy Science and Engineering PhD Student, exploring additive manufactured metallic gradients for end-use transportation parts.
 
@@ -54,16 +55,12 @@ EdinbR: The Edinburgh R usergroup (_various_)
 <!-- ### Journals -->
 
 `2015`
-Splitter D, __Pawlowski A__, and Wagner R (2015). A historical analysis of the co-evolution of gasoline octane number and spark-ignition engines. Front. Mech. Eng. 1:16. doi:10.3389/fmech.2015.00016
+Splitter D, __Pawlowski A__, and Wagner R (2015). A historical analysis of the co-evolution of gasoline octane number and spark-ignition engines. Front. Mech. Eng. 1:16. [doi:10.3389/fmech.2015.00016](doi:10.3389/fmech.2015.00016)
 
-__Pawlowski A__, Splitter D (2015). SI Engine Trends: A Historical Analysis with Future Projections _SAE Technical Paper 2015-01-0972_, doi:10.4271/2015-01-0972.
+__Pawlowski A__, Splitter D (2015). SI Engine Trends: A Historical Analysis with Future Projections _SAE Technical Paper 2015-01-0972_, [doi:10.4271/2015-01-0972](doi:10.4271/2015-01-0972).
 
 
 ## Non-academic
-
-`2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
-
-`2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
 
 ## Technical skills
 
@@ -73,6 +70,9 @@ __Pawlowski A__, Splitter D (2015). SI Engine Trends: A Historical Analysis with
 * CNC Milling
 * Milling
 * Lathing
+* Additive Manufacturing
+ * Fused Filament Fabrication / Fused Deposition Modeling
+ * Binder Jet
 * R
 * LaTeX
 * Inkscape
