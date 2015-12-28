@@ -112,7 +112,7 @@ h1,h2,h3,h4 {
 }
 
 h1 {
-	color: #fd9544;
+	color: #00746F;
 	text-align: left;
 	font-size: 3em;
 	line-height: 1em;
@@ -169,7 +169,7 @@ a:hover {
 	position: relative;
   margin-left: 25%;
 	color: #aaa;
-	font-family: Menlo,monospace,sans-serif;
+	font-family: "Open Sans",sans-serif;
 	font-size: 80%;
 }
 

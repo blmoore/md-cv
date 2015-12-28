@@ -58,16 +58,17 @@ __Pawlowski A__, Splitter D (2015). SI Engine Trends: A Historical Analysis with
 
 ## Technical skills
 
-* CAD
-	* Solidworks (CSWA Certified)
-    * Autodesk Fusion 360
-* CNC Milling
-* Milling
-* Lathing
-* Additive Manufacturing
- * Fused Filament Fabrication / Fused Deposition Modeling
- * Binder Jet
-* R
+* __CAD__
+* \_ Solidworks (_CSWA_)
+* \_ Autodesk Fusion 360
+* __Machining__
+* \_ CNC Milling
+* \_ Manual Milling and Lathing
+* __Additive Manufacturing__
+* \_ Fused Filament Fabrication / Fused Deposition Modeling
+* \_ Binder Jet
+* __R__
+* \_ Shiny
 * LaTeX
 * Inkscape
 * Data visualization
