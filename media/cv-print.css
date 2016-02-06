@@ -189,12 +189,12 @@ strong {
 }
 
 
-#non-academic {
-	page-break-before: always;
+#projects {
+	 page-break-before: always;
 }
 
 #placements{
-	page-break-before: always;
+      /* page-break-before: always; */
 }
 
 .footer {

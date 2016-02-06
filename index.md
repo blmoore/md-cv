@@ -16,7 +16,12 @@ Bioinformatics PhD and data scientist
 
 ## Currently
 
-I'm a final-year bioinformatics PhD student at the University of Edinburgh, due to finish around September 2015. During my PhD I've been working on integrating large volumes of publicly available genomics datasets with chromosome conformation data, exploring the relationships between higher order genome organisation and locus-level chromatin features using machine learning and statistical analysis.
+I'm a final-year bioinformatics PhD student at the University of Edinburgh, due to finish around September 2015. During my PhD I've been working on integrating large volumes of publicly available genomics datasets with chromosome conformation data, exploring the relationships between higher order genome organisation and locus-level chromatin features using machine learning and statistical analysis. (_This blurb is out of date._)
+
+## Employment
+
+`2015-` 
+__Illumina, Inc.__ Bioinformatics scientist (data scientist and statistical programmer)
 
 ## Education
 
@@ -74,6 +79,8 @@ _EpiGeneSys_ (Cambridge, UK)
 
 `2015`
 __Moore BL__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16: 110.
+
+Fraser J, Ferrai C, Chiariello AM, Schueler M, Rito T, Laudanno G, Barbieri M, __Moore BL__ _et al._ Hierarchical folding and reorganization of chromosomes are linked to transcriptional changes in cellular differentiation. _Molecular systems biology_, 11:852.
 
 Yua N, Nützmanna H-W, __Moore BL__ _et al._ Chromatin signatures of plant metabolic gene clusters. (_Submitted_)
 
