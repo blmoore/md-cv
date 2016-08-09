@@ -16,7 +16,7 @@ Bioinformatics PhD and data scientist
 
 ## Currently
 
-I'm a final-year bioinformatics PhD student at the University of Edinburgh, due to finish around September 2015. During my PhD I've been working on integrating large volumes of publicly available genomics datasets with chromosome conformation data, exploring the relationships between higher order genome organisation and locus-level chromatin features using machine learning and statistical analysis. (_This blurb is out of date._)
+I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge, UK. Here I develop software and use data science, machine learning and statistical programming to analyse large volumes of high-throughput sequencing data.
 
 ## Employment
 
