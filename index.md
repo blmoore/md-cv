@@ -251,11 +251,13 @@ Alpha Lambda Delta (Honor Society), Warner University, 2002.
 
 ## Specialized Training
 `2011-`
-* Syracuse University, Future Professoriate Program
+Syracuse University, Future Professoriate Program
+
 `2011`
-* Workshop participant. Overcoming Barriers to Underrepresented Scholarship: A Strategy and Action Workshop, Sponsored by the Status of Women in the Profession Committee, Status of Racial and Ethnic Minorities in the Profession Committee, and the Status of LGBTIQ Persons in the Profession Committee, American Academy of Religion, San Francisco, CA., November 18, 2011.
+Workshop participant. Overcoming Barriers to Underrepresented Scholarship: A Strategy and Action Workshop, Sponsored by the Status of Women in the Profession Committee, Status of Racial and Ethnic Minorities in the Profession Committee, and the Status of LGBTIQ Persons in the Profession Committee, American Academy of Religion, San Francisco, CA., November 18, 2011.
+
 `2010`
-* Workshop participant. Learning Goals for Teaching the Bible in the Liberal Arts Curriculum, Wabash Center for Teaching and Learning in Theology and Religion, Society of Biblical Literature, Atlanta, GA., November 20, 2010. 
+Workshop participant. Learning Goals for Teaching the Bible in the Liberal Arts Curriculum, Wabash Center for Teaching and Learning in Theology and Religion, Society of Biblical Literature, Atlanta, GA., November 20, 2010. 
 
 ## Languages (Reading Knowledge)
 * French
