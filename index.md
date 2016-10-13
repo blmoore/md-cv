@@ -73,30 +73,40 @@ __Problem__: Imagining Messianism in American Religion & Visual Culture.
 ## Teaching Experience
 
 ### Syracuse University, Instructor
-`Fall 2015`
+`2015`
 Introduction to the Study of Religion (Religion 120), Fall 2015
 
-`Spring 2015`
+`2015`
 Introduction to the Study of Religion (Religion 120), Spring 2015
 
-`Fall 2014`
+`2014`
 Religion in Science Fiction (Religion 320), Fall 2014
 
 ### Teaching Assistant:
 Lincoln, Religion and the Civil War (Religion 300), Spring 2016
+
 Native American Religion (Native American Studies/Religion 142), Fall 2015
+
 Faith and Reason in Islamic Thought and Civilization (Religion 261), Spring 2015
+
 Christianity (Religion 156), Fall 2014
+
 Introduction to the Bible (Jewish Studies/Religion 114), Spring 2014
+
 Judaism (Jewish Studies/Religion 135), Fall 2013
+
 Buddhism (South Asian Studies/ Religion 186), Spring 2013
+
 Native American Religions (Native American Studies/Religion 142), Fall 2012
+
 Introduction to the Bible (Jewish Studies/Religion 114), Spring 2012
+
 Introduction to the Study of Religion (Religion 120), Fall 2011
 
 ### Tutorials:
 Pop Culture Studies: Radio, Musics & Audio Cultures (Television Radio Film 530) taught by Dr. Jenny Doctor, Spring, 2015		
 > “Aimee Semple McPherson and the Development of Radio.”
+
 Pop Culture Studies: Radio, Musics & Audio Cultures (Television Radio Film 530), taught by Dr. Jenny Doctor, Spring, 2013
 > “Aimee Semple McPherson and the Development of Radio.”
 
@@ -143,26 +153,37 @@ Panel Chair, “Gender and Sexuality in the Oneida Community,” Eastern Interna
 WOCATI Executive Committee Meeting, Princeton Theological Seminary, Princeton, NJ, March 17-20 2009. 
 
 ## Service to the Profession
+
 ### American Academy of Religion 
 Graduate Student Committee, American Academy of Religion, May 2013-May 2015
+
 Graduate Student Director, Eastern International Region, May 2013-May 2015
 
 ### Syracuse University
 Graduate Student Admissions Committee Representative, August 2015-May 2016
+
 Syracuse University, Department of Religion Listserv manager, August 2013-Current
+
 University Senate, Senator at Large, August 2012-May 2013
+
 Graduate Student Organization, Senator at Large, August 2012-May 2013
+
 Religion Graduate Student Organization, Co-president, August 2012-May 2013
 
 ### Brite Divinity School at Texas Christian University
 Member, Theology Theory Group — 2008-2011
+
 Treasurer, Advanced Program Student Association — 2008-2011
+
 Vice Moderator, Brite Student Association, — 2010-2011
+
 General Secretary, Brite Student Association — 2008-2010
 
 ### Warner University
 Member, Student Congress, Student Government Association, 2003-2006
+
 Resident Assistant, 2003-2006
+
 President Pro Tempore, Student Government Association, 2004-2005
 
 ## Academic Presentations
@@ -211,26 +232,29 @@ Sticks And Stones Will Break Your Bones But iPhones Will Kill You: A Response to
 
 ## Academic Honors and Awards
 
-Graduate Teaching Assistantship (full tuition and stipend). Syracuse University Department of Religion. –– 2010-17
+Graduate Teaching Assistantship (full tuition and stipend). Syracuse University Department of Religion, 2010-17.
 
-Travel Grant and Funding for the Global Ecumenical Theological Institute of the World Council of Churches, Tenth Assembly of the World Council of Churches, Busan, Korea –– 2013
+Travel Grant and Funding for the Global Ecumenical Theological Institute of the World Council of Churches, Tenth Assembly of the World Council of Churches, Busan, Korea, 2013.
 
-Theta Chi Beta: Religion Honor Society (ΘΧΒ). Syracuse University Religion Honor Society and chapter of National Honor Society Theta Alpha Kappa (ΘΑΚ) –– 2013
+Theta Chi Beta: Religion Honor Society (ΘΧΒ). Syracuse University Religion Honor Society and chapter of National Honor Society Theta Alpha Kappa (ΘΑΚ), 2013.
 
-Book Award for Asian (Korean) Church Studies Program, Brite Divinity School at Texas Christian University — 2010
+Book Award for Asian (Korean) Church Studies Program, Brite Divinity School at Texas Christian University, 2010.
 
-Book Award for Theology, Brite Divinity School at Texas Christian University — 2009
+Book Award for Theology, Brite Divinity School at Texas Christian University, 2009.
 
-Alpha Chi (National College Honor Society), Warner University –– 2006
+Alpha Chi (National College Honor Society), Warner University, 2009.
 
-Pi Gamma Mu (International Social Science Honor Society), Warner University –– 2006
+Pi Gamma Mu (International Social Science Honor Society), Warner University, 2006.
 
-Alpha Lambda Delta (Honor Society), Warner University –– 2002
+Alpha Lambda Delta (Honor Society), Warner University, 2002.
 
 
 ## Specialized Training
+`2011-`
 * Syracuse University, Future Professoriate Program
+`2011`
 * Workshop participant. Overcoming Barriers to Underrepresented Scholarship: A Strategy and Action Workshop, Sponsored by the Status of Women in the Profession Committee, Status of Racial and Ethnic Minorities in the Profession Committee, and the Status of LGBTIQ Persons in the Profession Committee, American Academy of Religion, San Francisco, CA., November 18, 2011.
+`2010`
 * Workshop participant. Learning Goals for Teaching the Bible in the Liberal Arts Curriculum, Wabash Center for Teaching and Learning in Theology and Religion, Society of Biblical Literature, Atlanta, GA., November 20, 2010. 
 
 ## Languages (Reading Knowledge)
