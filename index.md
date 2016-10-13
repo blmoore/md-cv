@@ -43,7 +43,7 @@ __Brite Divinity School at Texas Christian University__, Th.M. in History and Th
 `2011`
 __Texas Christian University__, Women's Studies, Graduate Certificate
 
-`2008-11`
+`2009`
 __Brite Divinity School at Texas Christian University__ M.T.S in Theology and Culture
 <br />(Thesis: A Critical Study of Postmodern Theologizing: Examining Myth and Theology in _The Little Prince_.)
 
