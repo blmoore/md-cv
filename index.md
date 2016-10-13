@@ -110,7 +110,7 @@ Introduction to the Study of Religion (Religion 120), Fall 2011
 
 ### Tutorials:
 Pop Culture Studies: Radio, Musics & Audio Cultures (Television Radio Film 530) taught by Dr. Jenny Doctor, Spring, 2015
-<br /> “Aimee Semple McPherson and the Development of Radio.”
+<br /> “Aimee Semple McPherson and the Development of Radio.” 
 
 Pop Culture Studies: Radio, Musics & Audio Cultures (Television Radio Film 530), taught by Dr. Jenny Doctor, Spring, 2013
 <br /> “Aimee Semple McPherson and the Development of Radio.”
