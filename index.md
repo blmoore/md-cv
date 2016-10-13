@@ -68,6 +68,7 @@ My exams focused on the ways that aesthetic spaces provide a compelling location
 * __Problem__: Imagining Messianism in American Religion & Visual Culture.
 
 ## Teaching Experience
+
 ### Syracuse University, Instructor
 Introduction to the Study of Religion (Religion 120), Fall 2015
 Introduction to the Study of Religion (Religion 120), Spring 2015
