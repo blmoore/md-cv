@@ -344,6 +344,7 @@ Workshop participant. Learning Goals for Teaching the Bible in the Liberal Arts 
 * <i class="fa fa-linkedin" aria-hidden="true"></i><a href="http://linkedin.com/in/adamdjbrett"> linkedin.com/in/adamdjbrett</a>
 
 ## Address
+
 501 Hall of Languages, Syracuse, NY 13244
 
 ## References
