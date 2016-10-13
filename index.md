@@ -33,7 +33,7 @@ __Syracuse University__, Department of Religion, Ph.D. Candidate
 `2014`
 __Syracuse University__, Department of Religion, M.Phil. 
 
-`2013.`			
+`2013`			
 __Syracuse University__, Women and Gender Studies, Certificate of Advanced Study
 
 `2011`
