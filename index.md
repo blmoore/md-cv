@@ -10,8 +10,14 @@ PhD Candidate in Religion
 
 <div id="webaddress">
 <a href="mailto:adam@adamdjbrett.com">adam@adamdjbrett.com</a>
+</div>
+
+<div id="webaddress">
+<i class="fa fa-globe" aria-hidden="true"></i><a href="adamdjbrett.com">adamdjbrett.com</a> 
+| 
+<i class="fa fa-book" aria-hidden="true"></i><a href="https://syr.academia.edu/AdamBrett">syr.academia.edu/AdamBrett</a>
 |
-<a href="adamdjbrett.com">adamdjbrett.com</a> | 501 Hall of Languages, Syracuse, NY 13244
+<i class="fa fa-linkedin" aria-hidden="true"></i><a href="http://linkedin.com/in/adamdjbrett">linkedin.com/in/adamdjbrett</a>
 </div>
 
 
@@ -74,39 +80,44 @@ __Problem__: Imagining Messianism in American Religion & Visual Culture.
 
 ### Syracuse University, Instructor
 `2015-Fall`
-Introduction to the Study of Religion (Religion 120), Fall 2015
+Introduction to the Study of Religion (Religion 120)
 
 `2015-Spring`
-Introduction to the Study of Religion (Religion 120), Spring 2015
+Introduction to the Study of Religion (Religion 120)
 
 `2014-Fall`
-Religion in Science Fiction (Religion 320), Fall 2014
+Religion in Science Fiction (Religion 320)
 
 ### Teaching Assistant:
 `2016-Spring`
-Lincoln, Religion and the Civil War (Religion 300), Spring 2016
+Lincoln, Religion and the Civil War (Religion 300)
 
 `2015-Fall`
-Native American Religion (Native American Studies/Religion 142), Fall 2015
+Native American Religion (Native American Studies/Religion 142)
 
 `2015-Spring`
-Faith and Reason in Islamic Thought and Civilization (Religion 261), Spring 2015
+Faith and Reason in Islamic Thought and Civilization (Religion 261)
 
 `2014-Fall`
-Christianity (Religion 156), Fall 2014
+Christianity (Religion 156)
 
+`2014-Spring`
+Introduction to the Bible (Jewish Studies/Religion 114)
 
-Introduction to the Bible (Jewish Studies/Religion 114), Spring 2014
+`2013-Fall`
+Judaism (Jewish Studies/Religion 135)
 
-Judaism (Jewish Studies/Religion 135), Fall 2013
+`2013-Spring`
+Buddhism (South Asian Studies/ Religion 186)
 
-Buddhism (South Asian Studies/ Religion 186), Spring 2013
+`2012-Fall`
+Native American Religions (Native American Studies/Religion 142)
 
-Native American Religions (Native American Studies/Religion 142), Fall 2012
+`2012-Spring`
+Introduction to the Bible (Jewish Studies/Religion 114)
 
-Introduction to the Bible (Jewish Studies/Religion 114), Spring 2012
-
-Introduction to the Study of Religion (Religion 120), Fall 2011
+`2011-Fall`
+Introduction to the Study of Religion (Religion 120)
 
 ### Tutorials:
 Pop Culture Studies: Radio, Musics & Audio Cultures (Television Radio Film 530) taught by Dr. Jenny Doctor, Spring, 2015
@@ -120,23 +131,30 @@ Pop Culture Studies: Radio, Musics & Audio Cultures (Television Radio Film 530),
 `2016`
 Webmaster and Research Assistant, Syracuse University Department of Religion, to Dr. Virginia Burrus, Director of Graduate Study and Dr. Gareth Fisher, Director of Undergraduate Study. 
 
-Webmaster and Social Media Manager, National Association of Baptist Professors of Religion (NABPR), 2015-Current
+`2016-Spring` Freelance copyeditor, Syracuse University School of Architecture, Thesis 2016.
 
-Freelance copyeditor, Syracuse University School of Architecture, Thesis 2016, Spring 2016.
+`2015-Current`
+Webmaster and Social Media Manager, National Association of Baptist Professors of Religion (NABPR)
 
-Graduate Assistant, Belfer Audio Archive, Special Collections, Syracuse University Libraries, Summers 2012-Current
+`2012-Current`
+Graduate Assistant, Belfer Audio Archive, Special Collections, Syracuse University Libraries, Summers.
 
-Teaching Assistant, Department of Religion, Syracuse University, 2011-Current
+`2011-Current`
+Teaching Assistant, Department of Religion, Syracuse University.
 
 `2011`
 Webmaster and Social Media Manager, _Unfinished Lives: Remembering LGBT Hate Crime Victims_ a book and blog by Dr Steve Sprinkle, 2008-2011.
 
+`2008-Current`
 Webmaster, World Conference of Association of Theological Institutions (WOCATI), 2008-Current
 
+`2008-2011`
 Graduate Assistant, Prof. Dr. Namsoon Kang, Brite Divinity School, 2008-2011
 
+`2008-2011`
 Student Assistant, Technology Resources, Brite Divinity School, 2008-2011
 
+`2004-2006`
 Web Administrator, Warner University, 2004-2006
 
 ## Selected Academic and Professional Activities 
@@ -160,36 +178,49 @@ WOCATI Executive Committee Meeting, Princeton Theological Seminary, Princeton, N
 ## Service to the Profession
 
 ### American Academy of Religion 
+`2013-2015`
 Graduate Student Committee, American Academy of Religion, May 2013-May 2015
 
 Graduate Student Director, Eastern International Region, May 2013-May 2015
 
 ### Syracuse University
-Graduate Student Admissions Committee Representative, August 2015-May 2016
+`2015-2016`
+Graduate Student Admissions Committee Representative.
 
-Syracuse University, Department of Religion Listserv manager, August 2013-Current
+`2013-Current`
+Syracuse University, Department of Religion Listserv Manager.
 
-University Senate, Senator at Large, August 2012-May 2013
+`2012-2013`
+University Senate, Senator at Large.
 
-Graduate Student Organization, Senator at Large, August 2012-May 2013
+`2012-2013`
+Graduate Student Organization, Senator at Large.
 
-Religion Graduate Student Organization, Co-president, August 2012-May 2013
+`2012-2013`
+Religion Graduate Student Organization, Co-president.
 
 ### Brite Divinity School at Texas Christian University
-Member, Theology Theory Group — 2008-2011
+`2008-2011`
+Member, Theology Theory Group
 
-Treasurer, Advanced Program Student Association — 2008-2011
+`2008-2011`
+Treasurer, Advanced Program Student Association
 
+`2010-2011`
 Vice Moderator, Brite Student Association, — 2010-2011
 
+`2010-2011`
 General Secretary, Brite Student Association — 2008-2010
 
 ### Warner University
-Member, Student Congress, Student Government Association, 2003-2006
+`2003-2006`
+Resident Assistant
 
-Resident Assistant, 2003-2006
+`2003-2006`
+Member, Student Congress, Student Government Association
 
-President Pro Tempore, Student Government Association, 2004-2005
+`2003-2006`
+President Pro Tempore, Student Government Association
 
 ## Academic Presentations
 `2016`
@@ -200,24 +231,31 @@ President Pro Tempore, Student Government Association, 2004-2005
 `2015`
 “The Failure of the Messianic in _Man of Steel_,” Desire and Devotion in Pop Culture panel, Eastern International Region of the American Academy of Religion, McGill University, Friday May 1, 2015.
 
+`2015`
 A Survivor’s Guide to teaching Religion 320, a roundtable with Seren Gates Amadour, Dan Moseson, Courtney O’Dell-Chaib for the Syracuse University Department of Religion, December 4, 2015.
 
+`2015`
 The Art of Effective (Science) Presentations.” Women in Science and Engineering, response by Shobha K. Bhatia, Future Professionals Program (WiSE-FPP) at Syracuse University, July 17, 2015.
 
+`2015`
 “What is Queer about Queer Christian Theology?,” co-presented with Samuel Castleberry in the Queer Theology and “Deviance” panel, “ReligionInterruptus: The Affects of Sex, Politics, and Bodies,” Syracuse University Graduate Student Conference, sponsored by the Religion Graduate Organization at Syracuse University, February 27, 2015. 
 
 `2014`
 “The Art of Effective (Science) Presentations.” Women in Science and Engineering, response by Shobha K. Bhatia, Future Professionals Program (WiSE-FPP) at Syracuse University, November 7, 2014.
 
+`2014`
 “Remove Not The Ancient Landmark, Which Thy Fathers Have Set”:  Masculinity in The Fundamentals, in Gender in 19th Century New York Religions panel, Eastern International Region of the American Academy of Religion, Syracuse University, Saturday May 3, 2014.
 
+`2014`
 “I Still Belong to Jesus? The Rise of Christian Agnosticism and Religious Nones,” Religious Belonging and Exclusion Panel, “‘Should I Stay or Should I Go?’: Journeys of Belonging and Exclusion,” Syracuse University Department of History Graduate Student Conference, March 21, 2014.
 
+`2014`
 “Theologians Without Passports: An Ethic of Ecumenical Difference,” invited lecture at United Church in Fayetteville, Fayetteville, NY,  February 9, 2014.
 
 `2013`
 “Monstrous Bodies: Theologizing the Posthuman,” Annual meeting of NABPR (National Association of Baptist Professors of Religion) Baylor University, May 21, 2013.
 
+`2013`
 “River & Reavers ain't human—or they forgot how to be. Monstrous Bodies, Animality, and Religion in _Firefly & Serenity_,” “The Monstrous, the Marginalized, and Transgressive Forms of ‘Humanity’” Syracuse University Graduate Conference, Sponsored by The Religion Graduate Organization at Syracuse University, April 5th & 6th 2013.
 
 `2012`
@@ -226,31 +264,43 @@ The Art of Effective (Science) Presentations.” Women in Science and Engineerin
 `2011`
 “Playing with Negative Theology: Reading Derrida's ‘Structure, Sign, and Play,’” Annual meeting of NABPR (National Association of Baptist Professors of Religion) Gardner–Webb University, May 22, 2011.
 
+`2011`
 Advanced Program Student "Getting a Job Workshop," co-presented with Loren D.J. Baxter, Brite Divinity School at Texas Christian University, March, 26, 2011.
 
+`2011`
 Sticks And Stones Will Break Your Bones But iPhones Will Kill You: A Response to Dr. Kwok Pui Lan’s “_Fishing The Asia Pacific: Transnationalism And Feminist Theology_,” Student Colloquy with Kwok Pui Lan, Brite Divinity School Texas Christian University, March 7, 2011.
 
+`2010`
 “_The Little Prince_ as Theologian,” Annual meeting of NABPR (National Association of Baptist Professors of Religion) McAfee School of Theology (Mercer University), Atlanta, Ga, May 23-26, 2010.
 
+`2010`
 “Making Mornings That They’ll Remember: God, Ethnicity, Race, Gender, and Sexuality in William P. Young’s _The Shack_,” Co-presented with Rodney A. Thomas, Jr., Annual meeting of NABPR (National Association of Baptist Professors of Religion) McAfee School of Theology (Mercer University), Atlanta, Ga., May 23-26, 2010.
 
 
 ## Academic Honors and Awards
 
-Graduate Teaching Assistantship (full tuition and stipend). Syracuse University Department of Religion, 2010-17.
+`2010-Current`
+Graduate Teaching Assistantship (full tuition and stipend). Syracuse University Department of Religion.
 
+`2013`
 Travel Grant and Funding for the Global Ecumenical Theological Institute of the World Council of Churches, Tenth Assembly of the World Council of Churches, Busan, Korea, 2013.
 
-Theta Chi Beta: Religion Honor Society (ΘΧΒ). Syracuse University Religion Honor Society and chapter of National Honor Society Theta Alpha Kappa (ΘΑΚ), 2013.
+`2013`
+Theta Chi Beta: Religion Honor Society (ΘΧΒ). Syracuse University Religion Honor Society and chapter of National Honor Society Theta Alpha Kappa (ΘΑΚ).
 
+`2010`
 Book Award for Asian (Korean) Church Studies Program, Brite Divinity School at Texas Christian University, 2010.
 
+`2009`
 Book Award for Theology, Brite Divinity School at Texas Christian University, 2009.
 
+`2009`
 Alpha Chi (National College Honor Society), Warner University, 2009.
 
+`2006`
 Pi Gamma Mu (International Social Science Honor Society), Warner University, 2006.
 
+`2002`
 Alpha Lambda Delta (Honor Society), Warner University, 2002.
 
 
@@ -288,8 +338,10 @@ Workshop participant. Learning Goals for Teaching the Bible in the Liberal Arts 
 
 ## Links
 
-* <i class="fa fa-envelope"></i> <a href="mailto:adam@adamdjbrett.com">adam@adamdjbrett.com</a><br />
+* <i class="fa fa-envelope" aria-hidden="true"></i> <a href="mailto:adam@adamdjbrett.com">adam@adamdjbrett.com</a><br />
 
+## Address
+501 Hall of Languages, Syracuse, NY 13244
 
 ## References
 
