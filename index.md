@@ -73,26 +73,26 @@ __Problem__: Imagining Messianism in American Religion & Visual Culture.
 ## Teaching Experience
 
 ### Syracuse University, Instructor
-`2015`
+`2015-Fall`
 Introduction to the Study of Religion (Religion 120), Fall 2015
 
-`2015`
+`2015-Spring`
 Introduction to the Study of Religion (Religion 120), Spring 2015
 
-`2014`
+`2014-Fall`
 Religion in Science Fiction (Religion 320), Fall 2014
 
 ### Teaching Assistant:
-`2016`
+`2016-Spring`
 Lincoln, Religion and the Civil War (Religion 300), Spring 2016
 
-`2015`
+`2015-Fall`
 Native American Religion (Native American Studies/Religion 142), Fall 2015
 
-`2015`
+`2015-Spring`
 Faith and Reason in Islamic Thought and Civilization (Religion 261), Spring 2015
 
-`2014`
+`2014-Fall`
 Christianity (Religion 156), Fall 2014
 
 
@@ -110,10 +110,10 @@ Introduction to the Study of Religion (Religion 120), Fall 2011
 
 ### Tutorials:
 Pop Culture Studies: Radio, Musics & Audio Cultures (Television Radio Film 530) taught by Dr. Jenny Doctor, Spring, 2015
-<br /> “Aimee Semple McPherson and the Development of Radio.” 
+<br /> I lectured on “Aimee Semple McPherson and the Development of Radio.” 
 
 Pop Culture Studies: Radio, Musics & Audio Cultures (Television Radio Film 530), taught by Dr. Jenny Doctor, Spring, 2013
-<br /> “Aimee Semple McPherson and the Development of Radio.”
+<br /> I lectured on “Aimee Semple McPherson and the Development of Radio.”
 
 ## Other Academic and Professional Positions
 
