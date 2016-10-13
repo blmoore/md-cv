@@ -32,14 +32,14 @@ __Syracuse University__, Women and Gender Studies, Certificate of Advanced Study
 
 `2011`
 __Brite Divinity School at Texas Christian University__, Th.M. in History and Theology 
->(Thesis: Archaéological Theology: G-d Beyond God.)
+    > (Thesis: Archaéological Theology: G-d Beyond God.)
 
 `2011`
 __Texas Christian University__, Women's Studies, Graduate Certificate
 
 `2008-11`
 __Brite Divinity School at Texas Christian University__ M.T.S in Theology and Culture
->(Thesis: A Critical Study of Postmodern Theologizing: Examining Myth and Theology in _The Little Prince_.)
+    > (Thesis: A Critical Study of Postmodern Theologizing: Examining Myth and Theology in _The Little Prince_.)
 
 `2006`
 __Warner University__ B.A. in History and Biblical Studies
@@ -83,13 +83,18 @@ Introduction to the Study of Religion (Religion 120), Spring 2015
 Religion in Science Fiction (Religion 320), Fall 2014
 
 ### Teaching Assistant:
+`2016`
 Lincoln, Religion and the Civil War (Religion 300), Spring 2016
 
+`2015`
 Native American Religion (Native American Studies/Religion 142), Fall 2015
 
+`2015`
 Faith and Reason in Islamic Thought and Civilization (Religion 261), Spring 2015
 
+`2014`
 Christianity (Religion 156), Fall 2014
+
 
 Introduction to the Bible (Jewish Studies/Religion 114), Spring 2014
 
