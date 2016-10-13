@@ -32,14 +32,16 @@ __Syracuse University__, Women and Gender Studies, Certificate of Advanced Study
 
 `2011`
 __Brite Divinity School at Texas Christian University__, Th.M. in History and Theology 
-    >(Thesis: Archaéological Theology: G-d Beyond God.)
+
+    > (Thesis: Archaéological Theology: G-d Beyond God.)
 
 `2011`
 __Texas Christian University__, Women's Studies, Graduate Certificate
 
 `2008-11`
 __Brite Divinity School at Texas Christian University__ M.T.S in Theology and Culture
-    >(Thesis: A Critical Study of Postmodern Theologizing: Examining Myth and Theology in _The Little Prince_.)
+
+    > (Thesis: A Critical Study of Postmodern Theologizing: Examining Myth and Theology in _The Little Prince_.)
 
 `2006`
 __Warner University__ B.A. in History and Biblical Studies
@@ -109,10 +111,12 @@ Introduction to the Bible (Jewish Studies/Religion 114), Spring 2012
 Introduction to the Study of Religion (Religion 120), Fall 2011
 
 ### Tutorials:
-Pop Culture Studies: Radio, Musics & Audio Cultures (Television Radio Film 530) taught by Dr. Jenny Doctor, Spring, 2015		
+Pop Culture Studies: Radio, Musics & Audio Cultures (Television Radio Film 530) taught by Dr. Jenny Doctor, Spring, 2015
+		
 > “Aimee Semple McPherson and the Development of Radio.”
 
 Pop Culture Studies: Radio, Musics & Audio Cultures (Television Radio Film 530), taught by Dr. Jenny Doctor, Spring, 2013
+
 > “Aimee Semple McPherson and the Development of Radio.”
 
 ## Other Academic and Professional Positions
