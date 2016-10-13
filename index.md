@@ -32,14 +32,14 @@ __Syracuse University__, Women and Gender Studies, Certificate of Advanced Study
 
 `2011`
 __Brite Divinity School at Texas Christian University__, Th.M. in History and Theology 
-> (Thesis: Archaéological Theology: G-d Beyond God.)
+>(Thesis: Archaéological Theology: G-d Beyond God.)
 
 `2011`
 __Texas Christian University__, Women's Studies, Graduate Certificate
 
 `2008-11`
 __Brite Divinity School at Texas Christian University__ M.T.S in Theology and Culture
-> (Thesis: A Critical Study of Postmodern Theologizing: Examining Myth and Theology in _The Little Prince_.)
+>(Thesis: A Critical Study of Postmodern Theologizing: Examining Myth and Theology in _The Little Prince_.)
 
 `2006`
 __Warner University__ B.A. in History and Biblical Studies
@@ -62,16 +62,24 @@ __Global Ecumenical Theological Institute of the World Council of Churches__, in
 ## Doctoral Exams
 My exams focused on the ways that aesthetic spaces provide a compelling location for analyzing the power/knowledge relationships between religion and visual culture. These exams were organized around:
 
-*   __Person__: Michel Foucault as a Religious Thinker.
-*   __Text__: From _The Fundamentals_ to Fundamentalisms.
-*   __Movement__: The Byzantine Iconoclastic Controversy:  Exploring the Religious Dimension of Images.
-*   __Problem__: Imagining Messianism in American Religion & Visual Culture.
+__Person__: Michel Foucault as a Religious Thinker.
+
+__Text__: From _The Fundamentals_ to Fundamentalisms.
+
+__Movement__: The Byzantine Iconoclastic Controversy:  Exploring the Religious Dimension of Images.
+
+__Problem__: Imagining Messianism in American Religion & Visual Culture.
 
 ## Teaching Experience
 
 ### Syracuse University, Instructor
+`Fall 2015`
 Introduction to the Study of Religion (Religion 120), Fall 2015
+
+`Spring 2015`
 Introduction to the Study of Religion (Religion 120), Spring 2015
+
+`Fall 2014`
 Religion in Science Fiction (Religion 320), Fall 2014
 
 ### Teaching Assistant:
