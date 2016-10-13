@@ -61,10 +61,10 @@ __Global Ecumenical Theological Institute of the World Council of Churches__, in
 
 ## Doctoral Exams
 My exams focused on the ways that aesthetic spaces provide a compelling location for analyzing the power/knowledge relationships between religion and visual culture. These exams were organized around:
-+ __Person__: Michel Foucault as a Religious Thinker.
-+ __Text__: From _The Fundamentals_ to Fundamentalisms.
-+ __Movement__: The Byzantine Iconoclastic Controversy:  Exploring the Religious Dimension of Images.
-+ __Problem__: Imagining Messianism in American Religion & Visual Culture.
++   __Person__: Michel Foucault as a Religious Thinker.
++   __Text__: From _The Fundamentals_ to Fundamentalisms.
++   __Movement__: The Byzantine Iconoclastic Controversy:  Exploring the Religious Dimension of Images.
++   __Problem__: Imagining Messianism in American Religion & Visual Culture.
 
 ## Teaching Experience
 
