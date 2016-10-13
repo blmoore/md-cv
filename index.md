@@ -27,30 +27,30 @@ I'm a Ph.D. Student at [Syracuse](http://syr.edu), in the [department of religio
 
 ## Education
 
-`2011-Current`
+`2011-Current`	
 __Syracuse University__, Department of Religion, Ph.D. Candidate
 
-`2014`
+`2014`	
 __Syracuse University__, Department of Religion, M.Phil. 
 
 `2013`			
 __Syracuse University__, Women and Gender Studies, Certificate of Advanced Study
 
-`2011`
+`2011`	
 __Brite Divinity School at Texas Christian University__, Th.M. in History and Theology 
 <br />(Thesis: Archaéological Theology: G-d Beyond God.)
 
-`2011`
+`2011`	
 __Texas Christian University__, Women's Studies, Graduate Certificate
 
-`2009`
+`2009`	
 __Brite Divinity School at Texas Christian University__ M.T.S in Theology and Culture
 <br />(Thesis: A Critical Study of Postmodern Theologizing: Examining Myth and Theology in _The Little Prince_.)
 
-`2006`
+`2006`	
 __Warner University__ B.A. in History and Biblical Studies
 
-`2013`
+`2013`	
 __Global Ecumenical Theological Institute of the World Council of Churches__, in conjunction with the Tenth General Assembly of the _World Council of Churches_, Seoul and Busan, Korea, October 25-November 13, 2013. Participant.
 
 ## Areas of Specialization
