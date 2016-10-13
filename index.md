@@ -69,27 +69,27 @@ My exams focused on the ways that aesthetic spaces provide a compelling location
 
 ## Teaching Experience
 ### Syracuse University, Instructor
-> Introduction to the Study of Religion (Religion 120), Fall 2015
-> Introduction to the Study of Religion (Religion 120), Spring 2015
-> Religion in Science Fiction (Religion 320), Fall 2014
+Introduction to the Study of Religion (Religion 120), Fall 2015
+Introduction to the Study of Religion (Religion 120), Spring 2015
+Religion in Science Fiction (Religion 320), Fall 2014
 
 ### Teaching Assistant:
-> Lincoln, Religion and the Civil War (Religion 300), Spring 2016
-> Native American Religion (Native American Studies/Religion 142), Fall 2015
-> Faith and Reason in Islamic Thought and Civilization (Religion 261), Spring 2015
-> Christianity (Religion 156), Fall 2014
-> Introduction to the Bible (Jewish Studies/Religion 114), Spring 2014
-> Judaism (Jewish Studies/Religion 135), Fall 2013
-> Buddhism (South Asian Studies/ Religion 186), Spring 2013
-> Native American Religions (Native American Studies/Religion 142), Fall 2012
-> Introduction to the Bible (Jewish Studies/Religion 114), Spring 2012
-> Introduction to the Study of Religion (Religion 120), Fall 2011
+Lincoln, Religion and the Civil War (Religion 300), Spring 2016
+Native American Religion (Native American Studies/Religion 142), Fall 2015
+Faith and Reason in Islamic Thought and Civilization (Religion 261), Spring 2015
+Christianity (Religion 156), Fall 2014
+Introduction to the Bible (Jewish Studies/Religion 114), Spring 2014
+Judaism (Jewish Studies/Religion 135), Fall 2013
+Buddhism (South Asian Studies/ Religion 186), Spring 2013
+Native American Religions (Native American Studies/Religion 142), Fall 2012
+Introduction to the Bible (Jewish Studies/Religion 114), Spring 2012
+Introduction to the Study of Religion (Religion 120), Fall 2011
 
 ### Tutorials:
-> Pop Culture Studies: Radio, Musics & Audio Cultures (Television Radio Film 530) taught by Dr. Jenny Doctor, Spring, 2015		
-> > “Aimee Semple McPherson and the Development of Radio.”
-> Pop Culture Studies: Radio, Musics & Audio Cultures (Television Radio Film 530), taught by Dr. Jenny Doctor, Spring, 2013
-> > “Aimee Semple McPherson and the Development of Radio.”
+Pop Culture Studies: Radio, Musics & Audio Cultures (Television Radio Film 530) taught by Dr. Jenny Doctor, Spring, 2015		
+> “Aimee Semple McPherson and the Development of Radio.”
+Pop Culture Studies: Radio, Musics & Audio Cultures (Television Radio Film 530), taught by Dr. Jenny Doctor, Spring, 2013
+> “Aimee Semple McPherson and the Development of Radio.”
 
 ## Other Academic and Professional Positions
 
@@ -135,26 +135,26 @@ WOCATI Executive Committee Meeting, Princeton Theological Seminary, Princeton, N
 
 ## Service to the Profession
 ### American Academy of Religion 
-> Graduate Student Committee, American Academy of Religion, May 2013-May 2015
-> Graduate Student Director, Eastern International Region, May 2013-May 2015
+Graduate Student Committee, American Academy of Religion, May 2013-May 2015
+Graduate Student Director, Eastern International Region, May 2013-May 2015
 
 ### Syracuse University
-> Graduate Student Admissions Committee Representative, August 2015-May 2016
-> Syracuse University, Department of Religion Listserv manager, August 2013-Current
-> University Senate, Senator at Large, August 2012-May 2013
-> Graduate Student Organization, Senator at Large, August 2012-May 2013
-> Religion Graduate Student Organization, Co-president, August 2012-May 2013
+Graduate Student Admissions Committee Representative, August 2015-May 2016
+Syracuse University, Department of Religion Listserv manager, August 2013-Current
+University Senate, Senator at Large, August 2012-May 2013
+Graduate Student Organization, Senator at Large, August 2012-May 2013
+Religion Graduate Student Organization, Co-president, August 2012-May 2013
 
 ### Brite Divinity School at Texas Christian University
-> Member, Theology Theory Group — 2008-2011
-> Treasurer, Advanced Program Student Association — 2008-2011
-> Vice Moderator, Brite Student Association, — 2010-2011
-> General Secretary, Brite Student Association — 2008-2010
+Member, Theology Theory Group — 2008-2011
+Treasurer, Advanced Program Student Association — 2008-2011
+Vice Moderator, Brite Student Association, — 2010-2011
+General Secretary, Brite Student Association — 2008-2010
 
 ### Warner University
-> Member, Student Congress, Student Government Association, 2003-2006
-> Resident Assistant, 2003-2006
-> President Pro Tempore, Student Government Association, 2004-2005
+Member, Student Congress, Student Government Association, 2003-2006
+Resident Assistant, 2003-2006
+President Pro Tempore, Student Government Association, 2004-2005
 
 ## Academic Presentations
 `2016`
@@ -248,12 +248,8 @@ Alpha Lambda Delta (Honor Society), Warner University –– 2002
 
 ## Links
 
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-*  <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-*  <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Ben Moore</a><br />
-*  <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">blmoore</a>
-* <i class="fa fa-google"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">scholar</a>
+* <i class="fa fa-envelope"></i> <a href="mailto:adam@adamdjbrett.com">adam@adamdjbrett.com</a><br />
+
 
 ## References
 
