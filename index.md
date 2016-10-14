@@ -38,7 +38,7 @@ __Syracuse University__, Women and Gender Studies, Certificate of Advanced Study
 
 `2011`	
 __Brite Divinity School at Texas Christian University__, Th.M. in History and Theology 
-<br />(Thesis: Archaéological Theology: G-d Beyond God.)
+<br />(Thesis: Archaéological Theology: <del>G-d</del> Beyond God.)
 
 `2011`	
 __Texas Christian University__, Women's Studies, Graduate Certificate
