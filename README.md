@@ -1,6 +1,8 @@
 # md-cv
+My markdown CV, which currently looks something like [this](http://cv.adamdjbrett.com). Special Thanks to Benjamin L. Moore and Eliseo Papa for this awesome template.
 
-My markdown CV, which currently looks something like [this](http://blm.io/cv/), see this [blog post](http://blm.io/blog/markdown-academic-cv/) for details.
+Benjamine L. Moore wrote:
+> My markdown CV, which currently looks something like [this](http://blm.io/cv/), see this [blog post](http://blm.io/blog/markdown-academic-cv/) for details.
 
 ### How to run 
 
