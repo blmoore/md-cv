@@ -53,8 +53,6 @@ Unravelling higher order chromatin structure (_4<sup>th</sup> Edinburgh Bioinfor
 
 blogR: pop data analysis and R for the web (_Psychology R-users_, Edinburgh, UK)
 
-<!-- Digital Economies 2014 conference (London, UK; declined) -->
-
 ### Posters
 
 `2015`
@@ -76,12 +74,14 @@ _EpiGeneSys_ (Cambridge, UK)
 ## Publications
 
 <!-- ### Journals -->
+`2017`
+Eberle MA, Fritzilas E, Krusche P, Källberg M, __Moore BL__ _et al._ A reference data set of 5.4 million phased human variants validated by genetic inheritance from sequencing a three-generation 17-member pedigree. _Genome Research_, 27:157-164.
 
 `2016`
-Yu N, Nützmann H-W, MacDonald JT, __Moore B__ _et al._ Delineation of metabolic gene clusters in plant genomes by chromatin signatures. _Nucleic Acids Research_, 10.1093/nar/gkw100.
+Yu N, Nützmann H-W, MacDonald JT, __Moore B__ _et al._ Delineation of metabolic gene clusters in plant genomes by chromatin signatures. _Nucleic Acids Research_, 44(5):2255-2265.
 
 `2015`
-__Moore BL__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16: 110.
+__Moore BL__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16:110.
 
 Fraser J, Ferrai C, Chiariello AM, Schueler M, Rito T, Laudanno G, Barbieri M, __Moore BL__ _et al._ Hierarchical folding and reorganization of chromosomes are linked to transcriptional changes in cellular differentiation. _Molecular systems biology_, 11:852.
 
