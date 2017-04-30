@@ -72,9 +72,13 @@ __Person__: Michel Foucault as a Religious Thinker.
 
 __Text__: From _The Fundamentals_ to Fundamentalisms.
 
+<<<<<<< HEAD
 __Movement__: The Byzantine Iconoclastic Controversy:  Exploring the Religious Dimension of Images.
 
 __Problem__: Imagining Messianism in American Religion & Visual Culture.
+=======
+### Posters
+>>>>>>> blmoore/master
 
 ## Teaching Experience
 
@@ -206,8 +210,14 @@ Member, Theology Theory Group
 `2008-2011`
 Treasurer, Advanced Program Student Association
 
+<<<<<<< HEAD
 `2010-2011`
 Vice Moderator, Brite Student Association, — 2010-2011
+=======
+<!-- ### Journals -->
+`2017`
+Eberle MA, Fritzilas E, Krusche P, Källberg M, __Moore BL__ _et al._ A reference data set of 5.4 million phased human variants validated by genetic inheritance from sequencing a three-generation 17-member pedigree. _Genome Research_, 27:157-164.
+>>>>>>> blmoore/master
 
 `2010-2011`
 General Secretary, Brite Student Association — 2008-2010
@@ -224,12 +234,19 @@ President Pro Tempore, Student Government Association
 
 ## Academic Presentations
 `2016`
+<<<<<<< HEAD
 “'It's a Bird, It's a Plane, It's Messianism,' or Superman and the Limits of Weak Messianism,” Theology IV section, National Association of Baptist Professors of Religion (NABPR), Baylor University, May 23-25, 2016.
 
 “Messiahs in America: The return of Superheroes and the development of a modern American mythology,” Uninvited Guests & Atemporal Returns panel, Encountering the Unexpected: Glitches, (Dis)placements, & Marginalia, Syracuse University Religion Graduate Student Conference, March 26, 2016.
 
 `2015`
 “The Failure of the Messianic in _Man of Steel_,” Desire and Devotion in Pop Culture panel, Eastern International Region of the American Academy of Religion, McGill University, Friday May 1, 2015.
+=======
+Yu N, Nützmann H-W, MacDonald JT, __Moore B__ _et al._ Delineation of metabolic gene clusters in plant genomes by chromatin signatures. _Nucleic Acids Research_, 44(5):2255-2265.
+
+`2015`
+__Moore BL__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16:110.
+>>>>>>> blmoore/master
 
 `2015`
 A Survivor’s Guide to teaching Religion 320, a roundtable with Seren Gates Amadour, Dan Moseson, Courtney O’Dell-Chaib for the Syracuse University Department of Religion, December 4, 2015.

@@ -1,12 +1,14 @@
 # md-cv
 My markdown CV, which currently looks something like [this](http://cv.adamdjbrett.com). Special Thanks to Benjamin L. Moore and Eliseo Papa for this awesome template.
 
+<<<<<<< HEAD
 Benjamine L. Moore wrote:
 > My markdown CV, which currently looks something like [this](http://blm.io/cv/), see this [blog post](http://blm.io/blog/markdown-academic-cv/) for details.
+=======
+A jekyll-based markdown CV, which currently looks something like [this](http://blm.io/cv/), see this [blog post](http://blm.io/blog/markdown-academic-cv/) for details. Forked from the (great) markdown CV of [elipapa](https://github.com/elipapa/markdown-cv).
+>>>>>>> blmoore/master
 
-### How to run 
-
-A (jekyll-based) markdown CV tweaked slightly from the great design by [elipapa](https://github.com/elipapa/markdown-cv) (see their [blog post](http://www.eliseopapa.org/workflow/2012/09/20/why-i-switched-to-markdown-for-my-cv/)).
+### How to use
 
 To build, clone the repo and run jekyll:
 
@@ -15,8 +17,9 @@ git clone git://github.com/blmoore/md-cv
 cd md-cv/
 jekyll serve
 ```
+(You may need to [install jekyll](https://jekyllrb.com/docs/installation/).)
 
-Then point your browser at [0.0.0.0:4000](0.0.0.0:4000).
+Then point your browser to [0.0.0.0:4000](http://0.0.0.0:4000).
 
 ### HTML version
 
