@@ -190,7 +190,7 @@ strong {
 
 
 #projects {
-	 page-break-before: always; 
+	 /* page-break-before: always;  */
 }
 
 .footer {
