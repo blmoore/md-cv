@@ -74,6 +74,9 @@ _EpiGeneSys_ (Cambridge, UK)
 ## Publications
 
 <!-- ### Journals -->
+`2019`
+Krusche P, Trigg L, Boutros PC, Mason CE, De La Vega FM, __Moore BL__ _et al._ Best practices for benchmarking germline small-variant calls in human genomes. _Nature Biotechnology_ 37:555–56.
+
 `2017`
 Peluso S, Douglas A, Hill A, De Angelis C, __Moore BL__ _et al._ Fibroblast growth factors (FGFs) prime the limb specific Shh enhancer for chromatin changes that balance histone acetylation mediated by E26 transformation-specific (ETS) factors. _eLife_, 6: e28590.
 
