@@ -1,11 +1,14 @@
 # Example script to generate HTML and push to local gh-pages directory.
 
-#build site from markdown
+# build site from markdown
 jekyll build
 
+# path on your system to your github pages repo checkout
+SITE_DIR=../blmoore.github.io/cv/
+
 # remove old files
-rm -R ../other/blmoore.github.io/cv/*
+rm -R ${SITE_DIR}*
 
 # re-add new
-cp _site/index.html ../other/blmoore.github.io/cv/.
-cp -R _site/media ../other/blmoore.github.io/cv/.
+cp _site/index.html ${SITE_DIR}.
+cp -R _site/media ${SITE_DIR}.

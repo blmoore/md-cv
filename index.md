@@ -3,7 +3,7 @@ layout: cv
 title: Ben Moore's CV
 ---
 # Benjamin L. Moore
-Bioinformatics PhD and data scientist
+Bioinformatics PhD and Solutions Architect
 
 <div id="webaddress">
 <a href="mailto:ben@blm.io">ben@blm.io</a>
@@ -16,12 +16,32 @@ Bioinformatics PhD and data scientist
 
 ## Currently
 
-I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge, UK. Here I develop software and use data science, machine learning and statistical programming to analyse large volumes of high-throughput sequencing data.
+I'm a Senior Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge in the UK. Here I work on solutions to key informatics hurdles in the sequencing space, such as efficient and automated bioinformatics data analysis. I enjoy solving hard problems by writing quality software, preferably leveraging modern programming languages, agile development practices and effective cloud services.
 
 ## Employment
 
-`2015-` 
-__Illumina, Inc.__ Bioinformatics scientist (data scientist and statistical programmer)
+`2020-` 
+__Illumina, Inc.__ Senior Bioinformatics Scientist (software engineer and solutions architect). 
+> My work includes integrating Illumina's best-in-class _DRAGEN_ bioinformatics analysis pipelines with our flagship cloud platforms (_BaseSpace Sequence Hub_ and _Illumina Connected Analytics_). I also develop public tools such as the BaseSpace Sequence Hub Commandline Interface, alongside many other internal software engineering projects ranging from bioinformatics scripts to web applications.
+
+`2015-20` 
+__Illumina, Inc.__ Bioinformatics Scientist (data scientist and statistical programmer).
+> I joined Illumina's R&D organisation in 2015 where I worked on a wide range of bioinformatics and data science projects. Some public-facing work focused on variant comparison and analysis tooling, and I also advanced the popular _Platinum Genomes_ gold-standard variant truthset by introducing novel validation methods.
+
+## Technical skills
+
+* Python
+* Javascript (incl. Typescript, React)
+* R
+* Go
+* AWS
+* UNIX
+* Cluster computing
+* Docker
+* Git and GitHub
+* HTML and CSS
+* Bash
+* Agile development
 
 ## Education
 
@@ -34,56 +54,37 @@ __Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (
 `2008-11`
 __University of York__ BSc Biology (_First class honours_)
 
-## Presentations
+### Certifications
 
-### Tutorials
+`2021-24` __AWS Certified Solutions Architect__ (_Associate_)
 
-`2014`
-WikiProject Computational Biology half-day tutorial (_ISMB_, Boston, USA)
+## Areas of expertise
 
-### Talks
-
-`2015`
-EdinbR: The Edinburgh R usergroup (_various_)
-
-MRC IGMM research seminars and section meetings (_various_)
-
-`2014`
-Unravelling higher order chromatin structure (_4<sup>th</sup> Edinburgh Bioinformatics meeting_, Edinburgh, UK)
-
-blogR: pop data analysis and R for the web (_Psychology R-users_, Edinburgh, UK)
-
-### Posters
-
-`2015`
-_Keystone Epigenomics_ (Keystone CO, USA)
-
-`2014`
-_ISMB_ (Boston MA, USA)
-
-_Genome informatics_ (Cambridge, UK)
-
-_Chromatin: From nucleosomes to chromosomes_ (Cambridge, UK)
-
-`2013`
-_Genome informatics_ (CSHL NY, USA)
-
-_EpiGeneSys_ (Cambridge, UK)
-
+* Bioinformatics
+* Software development
+* Cloud engineering and automation
+* Single-page applications
+* Population genomics
+* Machine learning
+* Data visualisation
+* Variant calling
+* Illumina sequencing data
 
 ## Publications
 
-<!-- ### Journals -->
+### Journal articles
 `2019`
-Krusche P, Trigg L, Boutros PC, Mason CE, De La Vega FM, __Moore BL__ _et al._ Best practices for benchmarking germline small-variant calls in human genomes. _Nature Biotechnology_ 37:555–56.
+Krusche P, Trigg L, Boutros PC, Mason CE, De La Vega FM, __Moore BL__ _et al._ Best practices for benchmarking germline small-variant calls in human genomes. _Nature Biotechnology_, 37:555–56.
 
 `2017`
-Peluso S, Douglas A, Hill A, De Angelis C, __Moore BL__ _et al._ Fibroblast growth factors (FGFs) prime the limb specific Shh enhancer for chromatin changes that balance histone acetylation mediated by E26 transformation-specific (ETS) factors. _eLife_, 6: e28590.
+Peluso S, Douglas A, Hill A, De Angelis C, __Moore BL__ _et al._ Fibroblast growth factors (FGFs) prime the limb specific Shh enhancer for chromatin changes that balance histone acetylation mediated by E26 transformation-specific (ETS) factors. _eLife_, 6:e28590.
 
 Eberle MA, Fritzilas E, Krusche P, Källberg M, __Moore BL__ _et al._ A reference data set of 5.4 million phased human variants validated by genetic inheritance from sequencing a three-generation 17-member pedigree. _Genome Research_, 27:157-164.
 
 `2016`
 Yu N, Nützmann H-W, MacDonald JT, __Moore B__ _et al._ Delineation of metabolic gene clusters in plant genomes by chromatin signatures. _Nucleic Acids Research_, 44(5):2255-2265.
+
+Welch L, Brooksbank C, Schwartz R, Morgan SL, Gaeta B, Kilpatrick AM, Meitchen D, __Moore BL__ _et al._ Applying, Evaluating and Refining Bioinformatics Core Competencies. _PLoS Compututational Biology_, 12(5): e1004943.
 
 `2015`
 __Moore BL__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16:110.
@@ -96,35 +97,16 @@ __Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha 
 `2011`
 Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the “decimal” release. _Nucleic acids research_, 39(S1):D141-5.
 
+### Book chapters
+
+`2017`
+__Moore BL__, Semple CA. Crossing Borders: Modeling Approaches to Understand Chromatin Domains and Their Boundaries. _Epigenetics and Systems Biology_, 3:45-67.
+
 ## Non-academic
 
 `2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
 
 `2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
-
-## Technical skills
-
-* R
-* Python
-* Javascript (incl. Typescript, Angular)
-* Go
-* HTML and CSS
-* LaTeX
-* Bash
-* Git / Mercurial
-* UNIX
-* Cluster computing
-* Docker
-* AWS
-
-## Areas of expertise
-
-* Bioinformatics
-* Statistics
-* Machine learning
-* Data visualisation
-* Software development
-* NGS and variant calling
 
 ## Projects
 
