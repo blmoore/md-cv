@@ -1,9 +1,8 @@
 ---
 layout: cv
-title: Ben Moore's CV
+title: Katherine Chen's CV
 ---
-# Benjamin L. Moore
-Bioinformatics PhD and Solutions Architect
+# Katherine Chen
 
 <div id="webaddress">
 <a href="mailto:ben@blm.io">ben@blm.io</a>
