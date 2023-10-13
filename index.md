@@ -7,7 +7,7 @@ title: Katherine Chen's CV
 <div id="webaddress">
 <a href="mailto:Katherinechan912@gmail.com">Email</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
+<i class="fa fa-vimeo"></i> <a href="https://vimeo.com/473333435">Showreel</a>
 |
 <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
 </div>
