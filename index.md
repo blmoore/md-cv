@@ -16,6 +16,18 @@ title: Katherine Chen's CV
 
 Virtual Production: The Evolution of Cinematic "Hyper-Reality" in the Algorithmic Era 
 
+## Education
+
+`2015 - 2019`
+__DePaul University, Master of Fine Art in Film.__
+- GPA 3.79/4 MBA: Operation Management, Marketing 
+
+`2013 - 2015`
+__Hong Kong Baptist University, Bachelor of Cinema and Television__
+- Relevant Coursework: Mass Communication; Media Research Methods
+
+`2011 - 2013`
+__Hong Kong Baptist University, Teaching English as a Second Language (Transferred)__
 
 ## Employment
 
