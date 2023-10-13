@@ -9,7 +9,7 @@ title: Katherine Chen's CV
 |
 <i class="fa fa-vimeo"></i> <a href="https://vimeo.com/473333435">Showreel</a>
 |
-<i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a>
+<i class="fa fa-wix"></i> <a href="chenyujun.com">Portfolio</a>
 </div>
 
 
