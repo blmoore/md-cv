@@ -12,171 +12,165 @@ title: Katherine Chen's CV
 <i class="fa fa-wix"></i> <a href="https://www.chenyujun.com/">Portfolio</a>
 </div>
 
-### Research interests
+## Research interests
 
 Virtual Production: The Evolution of Cinematic "Hyper-Reality" in the Algorithmic Era 
 
 ## Education
 
-`2015 - 2019`
+`2015-2019`
 __DePaul University, Master of Fine Art in Film.__
 - GPA 3.79/4 MBA: Operation Management, Marketing 
 
-`2013 - 2015`
+`2013-2015`
 __Hong Kong Baptist University, Bachelor of Cinema and Television__
 - Relevant Coursework: Mass Communication; Media Research Methods
 
-`2011 - 2013`
+`2011-2013`
 __Hong Kong Baptist University, Teaching English as a Second Language (Transferred)__
+
+## Research experience
+### Master researcher
+
+`2017` 
+__Wuxia to Kung Fu: Evolution of Hong Kong Action Cinema under Shaw Brother Studio__
+> Pioneered in-depth archival dives into the Shaw Brothers studio' transformative journey from the 1920s to 1980s.
+> Dissected the studio's monumental influence on martial arts cinema and spotlighted visionary directors.
+> Showcased findings at a pivotal graduate symposium on Asian film history.
+
+`2016` 
+__DePaul University, College of Computing and Digital Media__
+> Compiled a database from 95+ articles, revealing diversity's influence on revenue and global studio strategies.
+> Authored ten reports on global film adaptations, underscoring distribution trends and audience shifts.
+> Orchestrated research on story frameworks, dissecting conventional narrative arcs and the hero's journey.
+> Crafted 8+ script coverage, pinpointing strengths and areas of improvement in peer submissions.
+> Conducted analyses of over 50 films, extracting genre, plot, and cinematic evolution insights.
+> Piloted 20+ film projects, infusing research insights into the cinematic narrative.
+
+### Undergraduate researcher
+
+`2015` 
+__Copyright Awareness and Media Download Behavior among College Students in China__
+> Administered a questionnaire, analyzing data in SPSS using frequency, crosstab, and correlation methods.
+> Generated a report on China's copyright evolution, intellectual property, and media piracy.
+
+`2014` 
+__Auteur Theory and Cinematic Styles Analysis__
+> Spearheaded a comparative study of Ingmar Bergman and Robert Bresson's styles using film analysis tools.
+> Delved into Billy Wilder's film style and thematic evolution to highlight his cinematic legacy.
+> Scrutinized the strategic color usage in Yi-Mou Zhang's "Red Sorghum" and its narrative impact.
+> Pioneered research using varied methodologies to elucidate cinematic styles and auteurs' impact.
+
+## Film experience
+### Dust in the Wind
+`2020` 
+> Official Selections: Orlando International Film Fest, etc. (9 in total)
+> Finalist: Wales International Film Fest, Cyprus International
+> Award Winner: Tripvill International, Independent-Star Munich
+
+### Bury
+`2019` 
+> Official Selections: Rolling Ideas, Reel East Texas, etc. (4 in total)
+> Finalist: Rome Prisma Film Awards
+
+### Promise Me
+`2019` 
+> Official Selections: San Francisco Short, etc. (7 in total)
+> Semi-Finalist: BLASTOFF
+> Award Winner: Falcon International Film Fest
+
+### Memories
+`2018` 
+> Official Selections: Vegas Cinefest International Fest, etc. (6 in total)
+> Semi-Finalist: AltFF Alternative, Blow-Up Arthouse, etc. (3 in total)
+> Award Winner: Feel The Reel International Film Fest
+
+### The Sword in Qin
+`2018` 
+> Official Selections: Bharat International Film Fest, etc. (6 in total) 
+> Semi-Finalist: ShanghaiPRIDE Film Festival
+> Award Winner: India Film Fest, WorldFest-Houston, etc. (3 in total)
 
 ## Employment
 
-`2020-` 
-__Illumina, Inc.__ Senior Bioinformatics Scientist (software engineer and solutions architect). 
-> My work includes integrating Illumina's best-in-class _DRAGEN_ bioinformatics analysis pipelines with our flagship cloud platforms (_BaseSpace Sequence Hub_ and _Illumina Connected Analytics_). I also develop public tools such as the BaseSpace Sequence Hub Commandline Interface, alongside many other internal software engineering projects ranging from bioinformatics scripts to web applications.
+`2023.02-` 
+__Yalong International__ Senior Manager, Mobile Game Distribution
+> Led game distribution projects on platforms like Bilibili and TikTok, optimizing for industry trends and user needs.
+> Refined strategies based on user requirements to enhance business outcomes and stay ahead of industry shifts.
 
-`2015-20` 
-__Illumina, Inc.__ Bioinformatics Scientist (data scientist and statistical programmer).
-> I joined Illumina's R&D organisation in 2015 where I worked on a wide range of bioinformatics and data science projects. Some public-facing work focused on variant comparison and analysis tooling, and I also advanced the popular _Platinum Genomes_ gold-standard variant truthset by introducing novel validation methods.
+`2021.11-2023.02` 
+__Ernst & Young EY wavespace™__ Videographer, Editor, and Designer 
+> Spearheaded video projects for clients like Shiseido, Dow, and Dior, transforming visions into visual narratives.
+> Led in the Metaverse Lab, aiding clients in embracing the decentralized Metaverse and Web3 economy.
+
+`2020.09-2021.10` 
+__Y-Platform (Multi-channel network)__ Producer
+> Crafted 30+ viral videos with premium content, amassing 7.2M TikTok followers and 4M Bilibili subscribers.
+> Streamlined coordination among crew, influencers, and clients like Peking University and People's Daily. 
+
+`2017.03-2020.08` 
+__Homy Casa, Inc.__ Project Coordinator, Photographer				
+> Liaised between Chinese factories and top US B2B clients like Amazon, Walmart, and Wayfair, driving sales through market analysis and enhanced marketing materials, including videos and catalogs.
+
+`2016.06-2016.08` 
+__Stagecoach Entertainment__ Script Reader						 	
+> Analyzed scripts, offering coverage of critical elements and pinpointing potential hits for varied audiences.
+
+`2015.05 - 2015.08` 
+__Phoenix Satellite Television__ Documentary Director						 	
+>Directed and edited documentaries, ensuring compelling narratives and top-tier production quality.
+
+`2015.05 - 2015.08` 
+__Xiamen Television Station__ News Director						 	
+>Delivered news content from ideation to broadcast, ensuring cohesive storytelling and high-quality production.
+
+## Leadership experience
+
+`2022` 
+__Smart: Customer Service Experience Innovation Forum__ Consultant, Videographer, Editor						 	
+>Directed high-quality forum production, ensuring seamless collaboration and top-tier quality.
+
+`2021` 
+__CCTV-10 “Tell” & Sustainable Fashion & Health Tech Foundation__ Director, Media Operations Manager	
+>Championed the project, turning vision into reality through adept media management. 
+
+`2021` 
+__Sanyouxing: Hangover Relief Products__ Consultant, Media Operations Strategist
+>Steered the brand's digital trajectory on TikTok and Bilibili, amplifying engagement and reach.
+
+## Teaching and mentoring
+
+`2015` 
+__Artist Coach/Arts Portfolio Mentor__ 
+
+`2013` 
+__Art Teacher__ Volunteer at Daping Primary School, Dayi Town, Wangmo County, Guizhou
+
+`2013` 
+__English Teacher__ Intern at Zhuhai Third Primary School, Guangdong
 
 ## Technical skills
 
-* Python
-* Javascript (incl. Typescript, React)
-* R
-* Go
-* AWS
-* UNIX
-* Cluster computing
-* Docker
-* Git and GitHub
-* HTML and CSS
-* Bash
-* Agile development
+* Video editing: Premiere, After Effects, DaVinci Resolve, Final Cut Pro
+* Audio editing: Audition, Pro Tools
+* Graphic design: Photoshop, Procreate, Spline, Mental Canvas 
+* Design tool: Figma, Adobe Illustrator
+* Movie budgeting/scheduling: MM Budgeting/Scheduling
+* 3D modeling: C4D, Blender, Unreal Engine
+* Programming language: Python, C++
 
-## Education
+## Language
 
-`2012-15`
-__University of Edinburgh__ Bioinformatics PhD (supervisors: Colin Semple and Stuart Aitken). My thesis was titled _Unravelling higher order chromatin organisation through statistical analysis_ and is available through the [Edinburgh Research Archive](https://www.era.lib.ed.ac.uk/handle/1842/22906).
+* Spanish: DELE Spanish Diploma - Level A2
+* English: Fluent
+* Mandarin: Native
+* Taiwanese: Native
+* Cantonese: Fluent
 
-`2011-12`
-__Imperial College London__ MSc Bioinformatics and Theoretical Systems Biology (_Distinction_)
+## Certifications
 
-`2008-11`
-__University of York__ BSc Biology (_First class honours_)
-
-### Certifications
-
-`2021-24` __AWS Certified Solutions Architect__ (_Associate_)
-
-## Areas of expertise
-
-* Bioinformatics
-* Software development
-* Cloud engineering and automation
-* Single-page applications
-* Population genomics
-* Machine learning
-* Data visualisation
-* Variant calling
-* Illumina sequencing data
-
-## Publications
-
-### Journal articles
-`2019`
-Krusche P, Trigg L, Boutros PC, Mason CE, De La Vega FM, __Moore BL__ _et al._ Best practices for benchmarking germline small-variant calls in human genomes. _Nature Biotechnology_, 37:555–56.
-
-`2017`
-Peluso S, Douglas A, Hill A, De Angelis C, __Moore BL__ _et al._ Fibroblast growth factors (FGFs) prime the limb specific Shh enhancer for chromatin changes that balance histone acetylation mediated by E26 transformation-specific (ETS) factors. _eLife_, 6:e28590.
-
-Eberle MA, Fritzilas E, Krusche P, Källberg M, __Moore BL__ _et al._ A reference data set of 5.4 million phased human variants validated by genetic inheritance from sequencing a three-generation 17-member pedigree. _Genome Research_, 27:157-164.
-
-`2016`
-Yu N, Nützmann H-W, MacDonald JT, __Moore B__ _et al._ Delineation of metabolic gene clusters in plant genomes by chromatin signatures. _Nucleic Acids Research_, 44(5):2255-2265.
-
-Welch L, Brooksbank C, Schwartz R, Morgan SL, Gaeta B, Kilpatrick AM, Meitchen D, __Moore BL__ _et al._ Applying, Evaluating and Refining Bioinformatics Core Competencies. _PLoS Compututational Biology_, 12(5): e1004943.
-
-`2015`
-__Moore BL__ _et al._ Integrative modeling reveals the principles of multi-scale chromatin boundary formation in human nuclear organization. _Genome Biology_, 16:110.
-
-Fraser J, Ferrai C, Chiariello AM, Schueler M, Rito T, Laudanno G, Barbieri M, __Moore BL__ _et al._ Hierarchical folding and reorganization of chromosomes are linked to transcriptional changes in cellular differentiation. _Molecular systems biology_, 11:852.
-
-`2013`
-__Moore BL__ _et al._ High–quality protein backbone reconstruction from alpha carbons using Gaussian mixture models. _Journal of computational chemisty_, 34(22):1881-9.
-
-`2011`
-Gardner PP, Daub J, Tate J, __Moore BL__ _et al._ Rfam: Wikipedia, clans and the “decimal” release. _Nucleic acids research_, 39(S1):D141-5.
-
-### Book chapters
-
-`2017`
-__Moore BL__, Semple CA. Crossing Borders: Modeling Approaches to Understand Chromatin Domains and Their Boundaries. _Epigenetics and Systems Biology_, 3:45-67.
-
-## Non-academic
-
-`2014` Pieces in _The Huffington Post_ (US): Here Are the Most Overrated and Underrated Movies of All Time; Celebrity Twitter Followers, by Gender ([huffingtonpost.com/benjamin-moore](http://www.huffingtonpost.com/benjamin-moore/))
-
-`2006–` Articles for _English Wikipedia_: European Nucleotide Archive, RNA thermometer, Toxin-antitoxin system and more ([en.wikipedia.org/wiki/User:Ben_Moore](https://en.wikipedia.org/wiki/User:Ben_Moore)).
-
-## Projects
-
-### github
-
-My [personal github account](https://github.com/blmoore) hosts my hobby development projects as well as listing contributions to open source tools. Examples include: shiny apps [blackspot](https://github.com/blmoore/blackspot) and [shinybrot](https://github.com/blmoore/shinybrot), as well as an R package hosted by CRAN ([mandelbrot](https://github.com/blmoore/mandelbrot)).
-
-### blog
-
-I write a data science blog at [blm.io](http://blm.io/blog) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received over 150,000 unique visitors from 180 countries.
-
-### EdinbR
-
-I co-founded a usergroup for the R programming language in Edinburgh called EdinbR. I helped to organise our monthly meetings and built our website: [edinbr.org](http://edinbr.org). Our meetings attract 30-50 statisticians, data scientists and developers for talks and discussion about the R language and its applications. We're sponsored by Revolution Analytics and have an organisational github account at [github.com/EdinbR](https://github.com/EdinbR).
-
-### datarea
-
-I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
-
-## Awards
-
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
-
-MRC Full postgraduate scholarship (MSc fees + stipend)
-
-ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
-
-Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
-
-Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
-
-Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
-
-Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
-
-## Placements
-
-`2010-11`
-__Wellcome Trust Sanger Institute__ (_Cambridge, UK_)
-Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.org)) in the Bateman group
-
-
-## Links
-
-<!-- fa are fontawesome, ai are academicons -->
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/blmoore/">LinkedIn</a>
-* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">StackOverflow</a>
-* <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Wikipedia Userpage</a><br />
-* <i class="ai ai-google-scholar"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">Google scholar</a>
-* <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-4074-1933">ORCiD</a>
-* <i class="ai ai-figshare"></i> <a href="https://figshare.com/authors/Benjamin_Moore/99461">figshare</a>
-
-## References
-
-Available on request.
+ __ACE® Fitness Certifications - American Council on Exercise__ 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+
