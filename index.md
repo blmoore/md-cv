@@ -5,7 +5,7 @@ title: Katherine Chen's CV
 # Katherine Chen
 
 <div id="webaddress">
-<a href="mailto:ben@blm.io">ben@blm.io</a>
+<a href="mailto:Katherinechan912@gmail.com">Email</a>
 |
 <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a>
 |
