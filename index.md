@@ -12,10 +12,10 @@ title: Katherine Chen's CV
 <i class="fa fa-wix"></i> <a href="https://www.chenyujun.com/">Portfolio</a>
 </div>
 
+### Research interests
 
-## Currently
+Virtual Production: The Evolution of Cinematic "Hyper-Reality" in the Algorithmic Era 
 
-I'm a Senior Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge in the UK. Here I work on solutions to key informatics hurdles in the sequencing space, such as efficient and automated bioinformatics data analysis. I enjoy solving hard problems by writing quality software, preferably leveraging modern programming languages, agile development practices and effective cloud services.
 
 ## Employment
 
